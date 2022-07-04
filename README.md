@@ -1,4 +1,4 @@
-# MSCI-718 - Statistical Methods for Data Analytics
+# Predictive analysis of voting intention
 
 Final project submission for the graduate course - Statistical Methods for Data Analytics (MSCI-718 winter 2022) at the University of Waterloo.
 
